@@ -40,20 +40,16 @@ There was no private sale / seed round for RVRS tokens.
 
 ## Timeline
 
-#### TBD, X PM (UTC)&#x20;
-
-Reverse's Mainnet dApp goes live, although, with its products disabled, it will enable users to familiarize themselves with it once the protocol goes live.
-
-#### TBD, X PM (UTC)&#x20;
+**November 7**
 
 The RVRS IDO on the ArtemisPad goes live.&#x20;
 
-#### TBD, X PM (UTC)&#x20;
+#### November 9
 
 The liquidity route for RVRS tokens is added, and trading will be enabled on Defi Kingdoms liquidity pools.&#x20;
 
 An incentivized pool on the Artemis Protocol for the RVRS - MIS pair will go live, along with a 'Stake MIS, earn RVRS' Hades pool.
 
-#### TBD, X PM (UTC)&#x20;
+**November 11**
 
 Reverse's products go live, this marks the beginning of the Reverse Protocol.
