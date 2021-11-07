@@ -20,7 +20,7 @@ RVRS Market Cap on Launch: $910,000
 
 Users wishing to participate in the RVRS IDO on the Artemis Protocol Launchpad will need to hold a certain amount of MIS (Artemis' Governance token) in their Metamask wallet. There will be **3 tiers** for the sale and will be based on MIS holdings at the time of the sale.
 
-**You will need to hold these MIS tokens in your wallet while interacting with the IDO contracts. No lock-up or snapshot will occur. You will need to temporarily unstake these tokens from Incubators/Elysium pools.**
+**You will need to deposit the MIS as collateral in order to participate in the sale, these tokens will then be unlocked when the IDO ends.**
 
 #### Tier 3
 
@@ -40,16 +40,16 @@ There was no private sale / seed round for RVRS tokens.
 
 ## Timeline
 
-**November 7**
+**November 8 - 6 PM (EST)**
 
 The RVRS IDO on the ArtemisPad goes live.&#x20;
 
-#### November 9
+#### November 10 - **6 PM (EST)**
 
 The liquidity route for RVRS tokens is added, and trading will be enabled on Defi Kingdoms liquidity pools.&#x20;
 
 An incentivized pool on the Artemis Protocol for the RVRS - MIS pair will go live, along with a 'Stake MIS, earn RVRS' Hades pool.
 
-**November 11**
+**November 12**
 
 Reverse's products go live, this marks the beginning of the Reverse Protocol.
