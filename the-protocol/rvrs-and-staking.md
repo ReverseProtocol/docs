@@ -10,6 +10,10 @@ The Reverse Token (RVRS) composes the fundamental building blocks of the Reverse
 
 By focusing on stable supply growth through minting and on building permanent liquidity and a basket of assets managed by the DAO, rather than price appreciation, Reverse aims for RVRS to become the leading decentralized currency on Harmony. RVRS single-staking allows users to earn RVRS through auto-compounding yield, displayed as APY.&#x20;
 
+
+
+Auto-compounding RVRS staking will incur a 5% withdrawal penalty, if funds are withdrawn within 80 hours of depositing. Withdrawal fees will be added to the RVRS treasury.
+
 ## Supply Distribution
 
 RVRS has a hard cap of 500,000,000 tokens, of which 8,025,000 RVRS will be pre-minted, distributed as follows,
