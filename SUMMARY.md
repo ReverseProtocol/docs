@@ -6,7 +6,8 @@
 ## The Protocol
 
 * [RVRS & Staking](the-protocol/rvrs-and-staking.md)
-* [Bonding Pools](the-protocol/bonding-pools.md)
+* [Bonding Pools](the-protocol/bonding-pools/README.md)
+  * [Bonding Pools vs Bonding](the-protocol/bonding-pools/bonding-pools-vs-bonding.md)
 * [Liquidity Incentives](the-protocol/liquidity-incentives.md)
 * [Reverseum Treasury](the-protocol/reverseum-treasury.md)
 * [OHM and Reverse - Differences](the-protocol/ohm-and-reverse-differences.md)

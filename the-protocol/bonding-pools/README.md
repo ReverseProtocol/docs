@@ -1,6 +1,6 @@
 ---
 description: An overview of Bonding Pools
-cover: ../.gitbook/assets/Group 3451.png
+cover: ../../.gitbook/assets/Group 3451.png
 coverY: 0
 ---
 
