@@ -6,17 +6,13 @@ coverY: 0
 
 # RVRS & Staking
 
-The Reverse Token (RVRS) composes the fundamental building blocks of the Reverse Protocol. It is used to capture and earn yield via auto-compounding RVRS staking, liquidity incentives and bonding pools, being the yield-bearing token for any asset distributed from the treasury (e.g., earning DAI through sRVRS staking), as well as being the core of the protocol's Governance and Reverseum Treasury management, which as strategies are deployed, intends to support the RVRS currency.&#x20;
+The Reverse Token (RVRS) composes the fundamental building blocks of the Reverse Protocol. It is used to capture and earn yield via auto-compounding RVRS staking, liquidity incentives and reverseum pools, being the yield-bearing token for any asset distributed from the treasury (e.g., earning DAI through RVRS staking), as well as being the core of the protocol's Governance and Reverseum Treasury management, which as strategies are deployed, intends to support the RVRS currency.&#x20;
 
-By focusing on stable supply growth through minting and on building permanent liquidity and a basket of assets managed by the DAO, rather than price appreciation, Reverse aims for RVRS to become the leading decentralized currency on Harmony. RVRS single-staking allows users to earn RVRS through auto-compounding yield, displayed as APY.&#x20;
-
-
-
-Auto-compounding RVRS staking will incur a 5% withdrawal penalty, if funds are withdrawn within 80 hours of depositing. Withdrawal fees will be added to the RVRS treasury.
+By focusing on stable supply growth through minting and on building permanent liquidity and a basket of assets managed by the protocol's governance, rather than price appreciation, Reverse aims for RVRS to become the leading decentralized currency on Harmony. RVRS single-staking allows users to earn RVRS through auto-compounding yield, displayed as APY - stakers can also benefit from treasury airdrops in the form of stable assets. Auto-compounding RVRS staking will incur a 5% withdrawal penalty if funds are withdrawn within 80 hours of depositing. Withdrawal fees will be added to the RVRS treasury.
 
 ## Supply Distribution
 
-RVRS has a hard cap of 500,000,000 tokens, of which 8,025,000 RVRS will be pre-minted, distributed as follows,
+RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-minted, distributed as follows,
 
 * **1,000,000 RVRS:** Allocated to the IDO on the Artemis Protocol.
 * **700,000 RVRS:** Allocated for initial liquidity. 75% of these liquidity tokens will be sent to a dead address, locking permanent liquidity, while 25% will flow to the Reverseum Treasury.&#x20;

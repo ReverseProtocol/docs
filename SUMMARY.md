@@ -1,16 +1,16 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Launch Procedure](launch-procedure.md)
+* [Launch Procedure (OLD)](launch-procedure-old.md)
 
 ## The Protocol
 
 * [RVRS & Staking](the-protocol/rvrs-and-staking.md)
-* [Bonding Pools](the-protocol/bonding-pools/README.md)
-  * [Bonding Pools vs Bonding](the-protocol/bonding-pools/bonding-pools-vs-bonding.md)
+* [Reverseum Pools](the-protocol/reverseum-pools/README.md)
+  * [Reverseum Pools vs Bonding](the-protocol/reverseum-pools/reverseum-pools-vs-bonding.md)
 * [Liquidity Incentives](the-protocol/liquidity-incentives.md)
 * [Reverseum Treasury](the-protocol/reverseum-treasury.md)
-* [OHM and Reverse - Differences](the-protocol/ohm-and-reverse-differences.md)
+* [OHM vs. Reverse](the-protocol/ohm-vs.-reverse.md)
 * [reUSD](the-protocol/reusd.md)
 
 ## Development
