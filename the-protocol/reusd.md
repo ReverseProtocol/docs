@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Group 3451 (4).png
 coverY: 0
 ---
 
-# reUSD
+# 💲 reUSD
 
 ..._Inspired by Frax, the world’s first fractional-algorithmic stablecoin._
 

@@ -12,10 +12,10 @@
 * [🔀 OHM vs. Reverse](the-protocol/ohm-vs.-reverse.md)
 * [💲 reUSD](the-protocol/reusd.md)
 
-## Development
+## Information
 
-* [Contracts (Mainnet)](development/contracts-mainnet.md)
-* [\</Code>](https://github.com/ReverseProtocol)
+* [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)
+* [📃 \</Code>](https://github.com/ReverseProtocol)
 
 ## Community & Socials
 

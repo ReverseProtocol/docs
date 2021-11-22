@@ -2,7 +2,7 @@
 description: A list of relevant addresses on Harmony Mainnet
 ---
 
-# Contracts (Mainnet)
+# 🎫 Contracts (Mainnet)
 
 `Governance Token (RVRS): `0xed0b4b0f0e2c17646682fc98ace09feb99af3ade` `
 
