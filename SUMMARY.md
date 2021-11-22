@@ -15,9 +15,6 @@
 ## Information
 
 * [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)
-* [📃 \</Code>](https://github.com/ReverseProtocol)
-
-## Community & Socials
-
-* [Risk Disclaimer](community-and-socials/risk-disclaimer.md)
-* [Discord](https://www.discord.gg/reverseprotocol)
+* [📃 Code](https://github.com/ReverseProtocol)
+* [⚠ Risk Disclaimer](information/risk-disclaimer.md)
+* [🗣 Discord](https://www.discord.gg/reverseprotocol)

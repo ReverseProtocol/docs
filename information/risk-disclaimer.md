@@ -1,4 +1,4 @@
-# Risk Disclaimer
+# ⚠ Risk Disclaimer
 
 Managing your risk is an important key when using decentralized finance. All information here should be independently verified, researched, and confirmed. We, as the founding team, hope that the value the Protocol brings will be reflected in the value of the token; however, we cannot guarantee anything with respect to the token price, as there are many factors that we cannot control.&#x20;
 
