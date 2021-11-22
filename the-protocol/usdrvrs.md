@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Group 3451 (5).png
 coverY: 0
 ---
 
-# $RVRS
+# ♐ $RVRS
 
 The Reverse Token (RVRS) composes the fundamental building blocks of the Reverse Protocol.&#x20;
 

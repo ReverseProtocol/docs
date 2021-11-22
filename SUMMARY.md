@@ -4,10 +4,10 @@
 
 ## The Protocol
 
-* [$RVRS](the-protocol/usdrvrs.md)
-* [Reverseum Pools](the-protocol/reverseum-pools/README.md)
-  * [Reverseum Pools vs Bonding](the-protocol/reverseum-pools/reverseum-pools-vs-bonding.md)
-* [Liquidity Incentives](the-protocol/liquidity-incentives.md)
+* [♐ $RVRS](the-protocol/usdrvrs.md)
+* [🪙 Staking](the-protocol/staking.md)
+* [🔓 Reverseum(Bonding) Pools](the-protocol/reverseum-bonding-pools.md)
+* [👩🌾 Farms](the-protocol/farms.md)
 * [Reverseum Treasury](the-protocol/reverseum-treasury.md)
 * [OHM vs. Reverse](the-protocol/ohm-vs.-reverse.md)
 * [reUSD](the-protocol/reusd.md)

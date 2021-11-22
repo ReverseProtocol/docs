@@ -1,10 +1,10 @@
 ---
 description: An overview of Reverseum Pools
-cover: ../../.gitbook/assets/Group 3451.png
+cover: ../.gitbook/assets/Group 3451.png
 coverY: 0
 ---
 
-# Reverseum Pools
+# 🔓 Reverseum(Bonding) Pools
 
 When leveraging the power of Reverseum Pools, users forfeit either their liquidity pool assets (e.g., RVRS - ONE), or single assets (e.g., UST) and give these to the protocol's Treasury, in return, bonders will capture a higher share of the RVRS distribution.&#x20;
 
