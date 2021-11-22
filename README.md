@@ -32,7 +32,7 @@ $$
 
 This regular adjustment, in addition to bonding pools, single-asset staking, and a decentralized treasury controlling most of the governance token's liquidity, is designed to create a similar effect to the popular Olympus (OHM), Wonderland (TIME) or Klima DAO (KLIMA) Protocols. However, Reverse should not be considered a “reserve currency” project like such.
 
-## <mark style="color:blue;">Reverseum Treasury</mark>
+## 🏦<mark style="color:blue;">Reverseum Treasury</mark>
 
 Forfeited assets are accumulated in the Reverseum Treasury for the protocol's benefit.&#x20;
 
