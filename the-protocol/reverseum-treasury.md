@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Group 3451 (1).png
 coverY: 0
 ---
 
-# Reverseum Treasury
+# 🏦 Reverseum Treasury
 
 Liquidity and single assets are accumulated in the Reverseum Treasury through community pool auctions and bonding pools for the protocol's benefit and are governed by RVRS holders. Bonding pools are the main source of value for the Reverseum Treasury, as liquidity and single assets are stored in such.&#x20;
 
