@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [↗ Introduction](README.md)
 * [Launch Procedure (OLD)](launch-procedure-old.md)
 
 ## The Protocol
