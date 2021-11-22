@@ -1,11 +1,10 @@
 # Table of contents
 
 * [↗ Introduction](README.md)
-* [Launch Procedure (OLD)](launch-procedure-old.md)
 
 ## The Protocol
 
-* [RVRS & Staking](the-protocol/rvrs-and-staking.md)
+* [$RVRS](the-protocol/usdrvrs.md)
 * [Reverseum Pools](the-protocol/reverseum-pools/README.md)
   * [Reverseum Pools vs Bonding](the-protocol/reverseum-pools/reverseum-pools-vs-bonding.md)
 * [Liquidity Incentives](the-protocol/liquidity-incentives.md)
