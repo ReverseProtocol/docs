@@ -11,3 +11,7 @@ Stakers will benefit from treasury yields in the form of stable assets, namely U
 **While we are still burning half the bonded liquidity to produce a similar effect of the OHM Fork's token backing, we also allocate half the liquidity to a wide range of different yield generating strategies to then distribute to holders.**
 
 **This strategy is intended to create more value out of bonded assets than just %100 of their value at the time.**
+
+The endgoal of the protocol is to create a positive investment loop that incentivizes staking and bonding as the primary functions of the protocol.
+
+![](../.gitbook/assets/memo1sonsonson.png)
