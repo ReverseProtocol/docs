@@ -14,6 +14,7 @@
 
 ## Information
 
+* [🔺 Bonds Disclaimer](information/bonds-disclaimer.md)
 * [🔜 Roadmap](information/roadmap.md)
 * [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)
 * [📃 Code](https://github.com/ReverseProtocol)
