@@ -4,6 +4,10 @@
 
 ![](../.gitbook/assets/1.jpg)
 
+****[**How to bridge**](bridge-greater-than-buy-and-stake.md#how-to-bridge)****
+
+[**How to swap**](bridge-greater-than-buy-and-stake.md#how-to-swap)****
+
 ## How to bridge?
 
 #### <mark style="color:orange;">Bridging Using Synapse</mark>&#x20;
