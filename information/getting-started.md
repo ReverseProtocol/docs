@@ -24,8 +24,6 @@ Once you have RVRS in your metamask, go to **** [**app.reverseprotocol.one**](ht
 
 ## How does Reverseum Treasury work?
 
-
-
-![](../.gitbook/assets/kest.jpg)
+![](<../.gitbook/assets/How\_RVRS\_works (2).jpg>)
 
 Head over to [**Reverseum Treasury Page**](../the-protocol/reverseum-treasury.md) for detailed information.
