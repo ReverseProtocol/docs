@@ -1,8 +1,4 @@
-# 🔰 Getting Started
-
-## What is Mutual Collaboration?
-
-![Mutual Collaboration = Everyone participating wins](../.gitbook/assets/Community\_Together.jpg)
+# 🔰 How to: Buy, Bridge & Stake
 
 ## Overview of Bridging, Swapping and Staking RVRS
 
@@ -36,8 +32,9 @@
 3. Copy this 'ONE' address and save it, it will be your metamask wallet address.
 4. Go to Binance or Kucoin, buy some ONE and withdraw it on your address and remember to select network as Harmony or ONE. On kucoin you can send a minimum of 20 ONE and on Binance you can send a minimum of 60 ONE.
 
-## How does Reverseum Treasury work?
+## How to swap?
 
-![](<../.gitbook/assets/How\_RVRS\_works (2).jpg>)
+![](../.gitbook/assets/Sushiswaprvrs.jpg)
 
-Head over to [**Reverseum Treasury Page**](../the-protocol/reverseum-treasury.md) for detailed information.
+1. Once you have your ONES/DAI oo your Metamask, visit app.reverseprotocol.one and click the 'swap' icon and you will be redirected to app.sushi.com page with the 'RVRS' token selected by default.
+2. Incase you do not see it; copy the contract address of REVERSE PROTOCOL (0xed0b4b0f0e2c17646682fc98ace09feb99af3ade) and PASTE it into import tokens on sushiswap. You will see RVRS. Import that token and buy from ONE/RVRS.

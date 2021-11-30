@@ -14,7 +14,7 @@
 
 ## Information
 
-* [🔰 Getting Started](information/getting-started.md)
+* [🔰 How to: Buy, Bridge & Stake](information/how-to-buy-bridge-and-stake.md)
 * [❓ FAQ](information/faq.md)
 * [⚠ Risk Disclaimer](information/risk-disclaimer.md)
 * [🔜 Roadmap](information/roadmap.md)
