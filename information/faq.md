@@ -36,3 +36,7 @@ All our contracts are inspired by battle-tested and audited contracts used by di
 
 The Reverseum Treasury puts most of its liquidity to work, creating more value than a dormant treasury can. The Reverseum Treasury can act as a Decentralized Venture Capital thanks to this approach. Details on said strategies can be found [**here**](https://docs.google.com/spreadsheets/d/1Ocl8Gx8rA4Zbzcsxb8-EuFNEQNlTsMLsMMRazixz\_gk/edit#gid=0).
 
+## Price chart?
+
+[https://dexscreener.com/harmony/0xCDe0A00302CF22B3Ac367201FBD114cEFA1729b4](https://dexscreener.com/harmony/0xCDe0A00302CF22B3Ac367201FBD114cEFA1729b4)
+
