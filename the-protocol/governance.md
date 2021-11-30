@@ -1,5 +1,5 @@
 ---
-description: Overview of Reverseum Farms
+description: Overview of Reverse Protocol Governance
 ---
 
 # 👩🌾 Governance

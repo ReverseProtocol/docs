@@ -6,10 +6,10 @@
 
 * [♐ $RVRS](the-protocol/usdrvrs.md)
 * [🪙 Staking](the-protocol/staking.md)
-* [🔓 Reverseum(Bonding) Pools](the-protocol/reverseum-bonding-pools.md)
+* [🔓 Bonding Pools](the-protocol/bonding-pools.md)
 * [🏦 Reverseum Treasury](the-protocol/reverseum-treasury.md)
-* [💲 reUSD](the-protocol/reusd.md)
 * [👩🌾 Governance](the-protocol/governance.md)
+* [💲 reUSD](the-protocol/reusd.md)
 * [🔀 OHM vs. Reverse](the-protocol/ohm-vs.-reverse.md)
 
 ## Information
