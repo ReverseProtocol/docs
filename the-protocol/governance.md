@@ -2,15 +2,11 @@
 description: Overview of Reverse Protocol Governance
 ---
 
-# 👩🌾 Governance
+# 🙋♀ Governance
 
-Governance is an integral part of Reverse Protocol. $RVRS holders get to vote on proposals put up by the team until a DAO is fully functional.
+Governance is an integral part of Reverse Protocol. $RVRS holders get to vote on proposals concerning the protocol and treasury put up by the team until a DAO is fully functional.
 
-**In the future the governance proposals will mostly be focused on treasury strategies.**&#x20;
-
-**Though in the earlier life of the protocol we will more often do "test the waters" types of votes.**
-
-When making a proposal we will make sure to include as much information as possible and give voters a list of pros and cons; but we still encourage everyone to take part in governance discussions on our [**Discord Server**](https://discord.com/invite/reverseprotocol)**.**
+When making a proposal we will include as much information as possible and give voters a list of pros and cons; but we still encourage everyone to take part in governance discussions on our [**Discord Server**](https://discord.com/invite/reverseprotocol)**.**
 
 ## Governance Council
 
