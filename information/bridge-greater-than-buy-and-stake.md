@@ -4,9 +4,9 @@
 
 ![](../.gitbook/assets/1.jpg)
 
-****[**How to bridge**](bridge-greater-than-buy-and-stake.md#how-to-bridge)               ****               [**How to send funds from an exchange**      ](bridge-greater-than-buy-and-stake.md#sending-funds-from-an-exchange)****
+****[**How to bridge**](bridge-greater-than-buy-and-stake.md#how-to-bridge)  **  **<mark style="color:red;">**-**</mark>**  **  [**How to send funds from an exchange  **<mark style="color:red;">**-**</mark>](bridge-greater-than-buy-and-stake.md#sending-funds-from-an-exchange)  ****  [**How to swap**](bridge-greater-than-buy-and-stake.md#how-to-swap)****
 
-[**How to swap**](bridge-greater-than-buy-and-stake.md#how-to-swap)****
+
 
 ## How to bridge?
 
