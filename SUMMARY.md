@@ -8,7 +8,7 @@
 * [🪙 Staking](the-protocol/staking.md)
 * [🔓 Bonding Pools](the-protocol/reverseum-bonding-pools.md)
 * [🏦 Reverseum Treasury](the-protocol/reverseum-treasury.md)
-* [👩🌾 Governance](the-protocol/governance.md)
+* [🙋♀ Governance](the-protocol/governance.md)
 * [💲 reUSD](the-protocol/reusd.md)
 * [🔀 OHM vs. Reverse](the-protocol/ohm-vs.-reverse.md)
 
