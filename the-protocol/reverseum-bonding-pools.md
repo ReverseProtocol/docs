@@ -6,7 +6,7 @@ coverY: 0
 
 # 🔓 Bonding Pools
 
-When leveraging the power of Bonding Pools, users forfeit either their liquidity pool assets (e.g., RVRS - ONE), or single assets (e.g., UST) and give these to the protocol's Treasury, in return, bonders will capture a higher share of the RVRS distribution.&#x20;
+When leveraging the power of Bonding Pools, users forfeit either their liquidity pool assets (e.g., RVRS - ONE), or single assets (e.g., UST) and give these to the protocol's Treasury. In return, bonders will capture a higher share of the RVRS distribution.&#x20;
 
 Bonding Pools allow Reverse to acquire its own liquidity and other reserve assets, stored in the Reverseum Treasury, which is managed by the RVRS Governance.&#x20;
 

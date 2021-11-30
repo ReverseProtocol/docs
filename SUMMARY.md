@@ -14,9 +14,9 @@
 
 ## Information
 
+* [🔰 Getting Started](information/getting-started.md)
 * [⚠ Risk Disclaimer](information/risk-disclaimer.md)
 * [🔜 Roadmap](information/roadmap.md)
 * [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)
-* [🔰 Getting Started](information/getting-started.md)
 * [📃 Code](https://github.com/ReverseProtocol)
 * [🗣 Discord](https://www.discord.gg/reverseprotocol)
