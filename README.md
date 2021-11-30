@@ -6,19 +6,17 @@ coverY: 0
 
 # ↗ Introduction
 
-{% hint style="info" %}
-As of November 15, 2021, this Documentation should be considered v0.1.3
-{% endhint %}
-
-## ❕ <mark style="color:blue;">What is Reverse?</mark>
+## <mark style="color:blue;">What is Reverse?</mark>
 
 The Reverse Protocol is a unique, OHM-Esque yield generating and treasury strategies protocol built on the Harmony Blockchain.&#x20;
 
-Reverse introduces game-theory-inspired products which aim to ensure the long-term sustainability of the protocol, namely: reverseum pools, decentralized treasury management, composable and double-layered single-staking through sRVRS (a derivative of Reverse’s native token RVRS), compensation in stable assets to stakers (e.g., UST airdrops from treasury generated yield), and rebased APYs for liquidity providers.
+Reverse introduces game-theory-inspired products which aim to ensure the long-term sustainability of the protocol, namely: bonding pools, decentralized treasury management, composable and double-layered single-staking through sRVRS (a derivative of Reverse’s native token RVRS), compensation in stable assets to stakers (e.g., UST airdrops from treasury generated yield), and rebased APYs for liquidity providers.
 
-The protocol's treasury mints RVRS tokens on each block, the majority of which are distributed through reverseum pools, single-asset auto-compounding staking, and liquidity incentives.&#x20;
+The protocol's treasury mints RVRS tokens on each block, the majority of which are distributed through bonding pools and single-asset auto-compounding staking.
 
-Reverse's participants may leverage their own liquidity or single assets **** or give these up to the protocol's treasuries by entering reverseum pools for a much higher yield in RVRS tokens, although users would be forfeiting their underlying assets, these allow the protocol's Governance to control its own liquidity while burning a percentage of it, offsetting token inflation and locking permanent liquidity; it too allows the protocol to own stable assets and deploy strategies on these to expand the treasury and benefit stakers.&#x20;
+Reverse's participants may leverage their own liquidity or single assets **** or give these up to the protocol's treasuries by entering bonding pools for a much higher yield in RVRS tokens, although users would be forfeiting their underlying assets.&#x20;
+
+These allow the protocol's Governance to control its own liquidity while burning a percentage of it while offsetting token inflation and locking permanent liquidity; it also allows the protocol to own stable assets and deploy strategies on these to expand the treasury and benefit stakers.&#x20;
 
 Thus, users willing to bet on the protocol's growth can benefit by leveraging auto-compounding balances and higher ROI while benefiting the protocol.
 
