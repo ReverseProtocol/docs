@@ -1,4 +1,4 @@
-# 🔰 How to: Buy, Bridge & Stake
+# 🤝 Bridge, Buy & Stake
 
 ## Overview of Bridging, Swapping and Staking RVRS
 
