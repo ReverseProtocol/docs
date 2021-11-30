@@ -2,13 +2,13 @@
 
 ## Overview of Bridging, Swapping and Staking RVRS
 
-![](../.gitbook/assets/1.jpg)
+![](<../.gitbook/assets/1 (1).jpg>)
 
 ## Moving assets to Harmony One
 
 ### <mark style="color:orange;">Bridging Using Synapse</mark>&#x20;
 
-![](../.gitbook/assets/2.jpg)
+![](<../.gitbook/assets/2 (1).jpg>)
 
 1. [**Setting up Metamask**](https://medium.com/stakingbits/setting-up-metamask-for-harmony-one-4fe67c6d1026)
 2. Connect your Metamask to [**Synapse Bridge**](https://synapseprotocol.com/?inputCurrency=USDC\&outputCurrency=USDC\&outputChain=1)****
