@@ -18,7 +18,7 @@ Reverse introduces game-theory-inspired products which aim to ensure the long-te
 
 The protocol's treasury mints RVRS tokens on each block, the majority of which are distributed through reverseum pools, single-asset auto-compounding staking, and liquidity incentives.&#x20;
 
-Reverse's participants may leverage their own liquidity or single assets** **or give these up to the protocol's treasuries by entering reverseum pools for a much higher yield in RVRS tokens, although users would be forfeiting their underlying assets, these allow the protocol's Governance to control its own liquidity while burning a percentage of it, offsetting token inflation and locking permanent liquidity; it too allows the protocol to own stable assets and deploy strategies on these to expand the treasury and benefit stakers.&#x20;
+Reverse's participants may leverage their own liquidity or single assets **** or give these up to the protocol's treasuries by entering reverseum pools for a much higher yield in RVRS tokens, although users would be forfeiting their underlying assets, these allow the protocol's Governance to control its own liquidity while burning a percentage of it, offsetting token inflation and locking permanent liquidity; it too allows the protocol to own stable assets and deploy strategies on these to expand the treasury and benefit stakers.&#x20;
 
 Thus, users willing to bet on the protocol's growth can benefit by leveraging auto-compounding balances and higher ROI while benefiting the protocol.
 

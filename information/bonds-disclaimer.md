@@ -8,9 +8,9 @@ description: Important read before bonding
 
 ![](../.gitbook/assets/1\_MdhweV9fNpgjGa4kFNxg5A.png)
 
-<mark style="color:red;">**The "Current NET ROI" is the expected return for the remaining vesting duration of a Bond. **</mark>
+<mark style="color:red;">**The "Current NET ROI" is the expected return for the remaining vesting duration of a Bond.**</mark>&#x20;
 
-<mark style="color:red;">**Joining the example pool above would result in 64% of the principal invested to be lost. **</mark>
+<mark style="color:red;">**Joining the example pool above would result in 64% of the principal invested to be lost.**</mark>&#x20;
 
 <mark style="color:red;">**Make sure you understand how the Net ROI works before participating in a Bonding Pool.**</mark>
 

@@ -6,7 +6,7 @@ The endgame of the protocol and the way the protocol collaboration works best is
 
 Stakers will benefit from treasury yields in the form of stable assets, namely UST at the start.&#x20;
 
-**This yield bearing strategy is the biggest difference between your common OHM Fork and reverse. **
+**This yield bearing strategy is the biggest difference between your common OHM Fork and reverse.**&#x20;
 
 **While we are still burning half the bonded liquidity to produce a similar effect of the OHM Fork's token backing, we also allocate half the liquidity to a wide range of different yield generating strategies to then distribute to holders.**
 

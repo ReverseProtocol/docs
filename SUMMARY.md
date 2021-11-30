@@ -9,7 +9,7 @@
 * [🔓 Reverseum(Bonding) Pools](the-protocol/reverseum-bonding-pools.md)
 * [🏦 Reverseum Treasury](the-protocol/reverseum-treasury.md)
 * [💲 reUSD](the-protocol/reusd.md)
-* [👩🌾 Farms](the-protocol/farms.md)
+* [👩🌾 Governance](the-protocol/governance.md)
 * [🔀 OHM vs. Reverse](the-protocol/ohm-vs.-reverse.md)
 
 ## Information
