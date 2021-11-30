@@ -4,13 +4,9 @@
 
 ![](../.gitbook/assets/1.jpg)
 
-****[**How to bridge**](bridge-greater-than-buy-and-stake.md#how-to-bridge)  **  **<mark style="color:red;">**-**</mark>**  **  [**How to send funds from an exchange  **<mark style="color:red;">**-**</mark>](bridge-greater-than-buy-and-stake.md#sending-funds-from-an-exchange)  ****  [**How to swap**](bridge-greater-than-buy-and-stake.md#how-to-swap)****
+## Moving assets to Harmony One
 
-
-
-## How to bridge?
-
-#### <mark style="color:orange;">Bridging Using Synapse</mark>&#x20;
+### <mark style="color:orange;">Bridging Using Synapse</mark>&#x20;
 
 ![](../.gitbook/assets/2.jpg)
 
@@ -24,12 +20,12 @@
 8. Make sure that the amount you will be receiving appears correct, and click "Approve Token" to grant Synapse approval to spend the stablecoin you are swapping _(Note: you will receive the indicated amount of the native token when bridging to a non-Ethereum chain, enough to allow you to make 1-2 swaps upon arrival)_
 9. Click "Bridge Token" after the approval has been confirmed to bridge your funds
 
-#### <mark style="color:orange;">**Bridging using Horizon HarmonyOne**</mark>
+### <mark style="color:orange;">**Bridging using Horizon HarmonyOne**</mark>
 
 1. Visit [**Harmony Horizon Bridge**](https://bridge.harmony.one)****
 2. Depending on the chain you are bridging from, it is best recommended to use the [**Official Horizon Bridge Document**](https://docs.harmony.one/home/general/horizon-bridge)****
 
-## Sending funds from an exchange
+### <mark style="color:orange;">Sending funds from an exchange</mark>
 
 1. Copy your wallet address(0x..), and copy and paste it on [**Harmony Explorer**](https://explorer.harmony.one) and you will get your Harmony One wallet address starting with "one".
 2. You can toggle between 'ONE' and '0x' address by using the Menu (3 dashes) on the top right corner of the screen.
