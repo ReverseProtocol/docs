@@ -14,7 +14,7 @@
 
 ## Information
 
-* [🤝 Bridge, Buy & Stake](information/bridge-buy-and-stake.md)
+* [🤝 Bridge > Buy & Stake](information/bridge-greater-than-buy-and-stake.md)
 * [❓ FAQ](information/faq.md)
 * [⚠ Risk Disclaimer](information/risk-disclaimer.md)
 * [🔜 Roadmap](information/roadmap.md)
