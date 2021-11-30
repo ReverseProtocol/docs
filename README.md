@@ -16,7 +16,7 @@ The protocol's treasury mints RVRS tokens on each block, the majority of which a
 
 Reverse's participants may leverage their own liquidity or single assets **** or give these up to the protocol's treasuries by entering bonding pools for a much higher yield in RVRS tokens, although users would be forfeiting their underlying assets.&#x20;
 
-These allow the protocol's Governance to control its own liquidity while burning a percentage of it while offsetting token inflation and locking permanent liquidity; it also allows the protocol to own stable assets and deploy strategies on these to expand the treasury and benefit stakers.&#x20;
+These pools allow the protocol's Governance to control its own liquidity while burning a percentage of it to offset token inflation and lock permanent liquidity; they also allow the protocol to own stable assets and deploy strategies on these to expand the treasury and benefit stakers.&#x20;
 
 Thus, users willing to bet on the protocol's growth can benefit by leveraging auto-compounding balances and higher ROI while benefiting the protocol.
 
@@ -28,7 +28,7 @@ $$
 P ⇒ Q
 $$
 
-This regular adjustment, in addition to bonding pools, single-asset staking, and a decentralized treasury controlling most of the governance token's liquidity, is designed to create a similar effect to the popular Olympus (OHM), Wonderland (TIME) or Klima DAO (KLIMA) Protocols. However, Reverse should not be considered a “reserve currency” project like such.
+This regular adjustment, in addition to bonding pools, single-asset staking, and a decentralized treasury controlling most of the governance token's liquidity, is designed to create a similar effect to the popular Olympus (OHM), Wonderland (TIME) or Klima DAO (KLIMA) Protocols.
 
 ## 🏦<mark style="color:blue;">Reverseum Treasury</mark>
 
