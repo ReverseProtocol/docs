@@ -32,7 +32,7 @@
 3. Copy this 'ONE' address and save it, it will be your metamask wallet address.
 4. Go to Binance or Kucoin, buy some ONE and withdraw it on your address and remember to select network as Harmony or ONE. On kucoin you can send a minimum of 20 ONE and on Binance you can send a minimum of 60 ONE.
 
-## How to swap?
+## How to swap
 
 ![](../.gitbook/assets/Sushiswaprvrs.jpg)
 
