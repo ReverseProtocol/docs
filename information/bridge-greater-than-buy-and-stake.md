@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/1.jpg)
 
-****[**How to bridge**](bridge-greater-than-buy-and-stake.md#how-to-bridge)****
+****[**How to bridge**](bridge-greater-than-buy-and-stake.md#how-to-bridge)               ****               [**How to send funds from an exchange**      ](bridge-greater-than-buy-and-stake.md#sending-funds-from-an-exchange)****
 
 [**How to swap**](bridge-greater-than-buy-and-stake.md#how-to-swap)****
 
@@ -29,7 +29,7 @@
 1. Visit [**Harmony Horizon Bridge**](https://bridge.harmony.one)****
 2. Depending on the chain you are bridging from, it is best recommended to use the [**Official Horizon Bridge Document**](https://docs.harmony.one/home/general/horizon-bridge)****
 
-#### <mark style="color:orange;">Sending funds from an exchange</mark>
+## Sending funds from an exchange
 
 1. Copy your wallet address(0x..), and copy and paste it on [**Harmony Explorer**](https://explorer.harmony.one) and you will get your Harmony One wallet address starting with "one".
 2. You can toggle between 'ONE' and '0x' address by using the Menu (3 dashes) on the top right corner of the screen.
