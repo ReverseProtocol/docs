@@ -36,5 +36,5 @@
 
 ![](../.gitbook/assets/Sushiswaprvrs.jpg)
 
-1. Once you have your ONES/DAI on your Metamask, visit app.reverseprotocol.one and click the 'swap' icon and you will be redirected to app.sushi.com page with the 'RVRS' token selected by default.
+1. Once you have your ONES/DAI on your Metamask, visit app.reverseprotocol.one and click the 'swap' icon and you will be redirected to [**app.sushi.com**](https://app.sushi.com/swap) page with the 'RVRS' token selected by default.
 2. Incase you do not see it; copy the contract address of REVERSE PROTOCOL (0xed0b4b0f0e2c17646682fc98ace09feb99af3ade) and PASTE it into import tokens on sushiswap. You will see RVRS. Import that token and buy from ONE/RVRS.
