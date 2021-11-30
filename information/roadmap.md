@@ -12,7 +12,7 @@ description: >-
 * [ ] <mark style="color:purple;">**UST and WBTC Bonds.**</mark>
 * [ ] <mark style="color:purple;">**Reverseum treasury rewards.  (stake RVRS to earn UST)**</mark>
 * [ ] <mark style="color:purple;">**Governance for treasury strategies.**</mark>
-* [ ] <mark style="color:purple;">**Rebalanced emissions between farms and staking/bonding.**</mark>
+* [x] <mark style="color:purple;">**Rebalanced emissions between farms and staking/bonding.**</mark>
 * [ ] <mark style="color:purple;">**Key partnerships/marketing push**</mark>
 * [ ] <mark style="color:purple;">**UI improved for clarity**</mark>
 * [ ] <mark style="color:purple;">**ReUSD stablecoin implemented**</mark>
