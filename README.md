@@ -10,7 +10,7 @@ coverY: 0
 
 The Reverse Protocol is a unique, OHM-Esque yield generating and treasury strategies protocol built on the Harmony Blockchain.&#x20;
 
-Reverse introduces game-theory-inspired products which aim to ensure the long-term sustainability of the protocol, namely: bonding pools, decentralized treasury management, composable and double-layered single-staking through sRVRS (a derivative of Reverse’s native token RVRS), compensation in stable assets to stakers (e.g., UST airdrops from treasury generated yield), and rebased APYs for liquidity providers.
+Reverse introduces game-theory-inspired products which aim to ensure the long-term sustainability of the protocol, namely: bonding pools, decentralized treasury management, composable and double-layered single-staking through sRVRS (a derivative of Reverse’s native token RVRS), compensation to stakers (e.g., UST rewards or treasury buybacks), and rebased APYs for liquidity providers.
 
 The protocol's treasury mints RVRS tokens on each block, the majority of which are distributed through bonding pools and single-asset auto-compounding staking.
 
