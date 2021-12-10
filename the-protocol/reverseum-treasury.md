@@ -17,6 +17,3 @@ The treasury will never sell any of its RVRS. The Treasury's non RVRS assets are
 * Buy an asset using another asset in the treasury (e.g., buy RVRS with UST)
 * Change the current strategy of assets to maximize their performance
 
-### Community Pool Auctions
-
-Reverse will regularly onboard smaller, Harmony-based projects, dubbed “community pools”, at a maximum of once every 3 weeks. These projects will be able to acquire a Reverse or Bonding pool on the Reverse Protocol by bidding ONE tokens, starting at 5,000 ONE. Of the funds raised, half will be used to buy RVRS from the market, and paired with the other half of ONE, and sent to the Reverseum treasury.

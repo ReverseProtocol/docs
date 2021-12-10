@@ -1,6 +1,7 @@
 # Table of contents
 
 * [↗ Introduction](README.md)
+* [⚠ Risk Disclaimer READ FIRST](risk-disclaimer-read-first.md)
 
 ## The Protocol
 
@@ -17,7 +18,6 @@
 * [🤝 Bridge > Buy & Stake](information/bridge-greater-than-buy-and-stake.md)
 * [👉 Core Concepts](information/core-concepts.md)
 * [❓ FAQ](information/faq.md)
-* [⚠ Risk Disclaimer](information/risk-disclaimer.md)
 * [🔜 Roadmap](information/roadmap.md)
 * [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)
 * [📃 Code](https://github.com/ReverseProtocol)
