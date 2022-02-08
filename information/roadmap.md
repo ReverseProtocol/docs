@@ -14,15 +14,23 @@ description: >-
 * [x] <mark style="color:purple;">**Governance for treasury strategies.**</mark>
 * [x] <mark style="color:purple;">**Rebalanced emissions between farms and staking/bonding.**</mark>
 * [x] <mark style="color:purple;">**RVRS Buybacks from Treasury**</mark>
+
+
 * [ ] <mark style="color:purple;">**Update Staking Contract**</mark>
   * [x] <mark style="color:purple;">**Governance Discussion**</mark>
   * [ ] <mark style="color:purple;">**Dev feasibility analysis**</mark>
   * [ ] <mark style="color:purple;">**Final Governance Vote with time estimates**</mark>
+
+
 * [ ] <mark style="color:purple;">**UI improved for clarity**</mark>
   * [x] <mark style="color:purple;">**Fix scaling/mobile**</mark>
   * [ ] <mark style="color:purple;">**Update Staking Dashboard**</mark>
   * [ ] <mark style="color:purple;">**Update Bonding Dashboard**</mark>
+
+
 * [ ] <mark style="color:purple;">**Update Project Documentation**</mark>
+
+
 * [ ] <mark style="color:purple;">**Marketing Push**</mark>
   * [x] <mark style="color:purple;">**Twitter Campaign**</mark>
   * [ ] <mark style="color:purple;">**Reddit Presence**</mark>
@@ -35,6 +43,8 @@ description: >-
   * [ ] <mark style="color:purple;">**Youtube Videos**</mark>
     * [ ] <mark style="color:purple;">**Tokenomics Walkthrough**</mark>
     * [ ] <mark style="color:purple;">**Bonding How-To**</mark>
+
+
 * [ ] <mark style="color:purple;">**Community Driven Growth and Expansion**</mark>
   * [ ] <mark style="color:purple;">**Continue establishing Community driven Governance over the future of the project.**</mark>
   * [ ] <mark style="color:purple;">**Define Treasury Strategy Balancing Mechanics**</mark>
