@@ -6,6 +6,8 @@ coverY: 0
 
 # ♐ $RVRS
 
+## <mark style="color:red;">Under Construction!</mark>
+
 The Reverse Token (RVRS) composes the fundamental building blocks of the Reverse Protocol.&#x20;
 
 It is used to capture and earn yield via auto-compounding RVRS staking, liquidity incentives and reverseum pools, being the yield-bearing token for any asset distributed from the treasury (e.g., earning DAI through RVRS staking), as well as being the core of the protocol's Governance and Reverseum Treasury management, which as strategies are deployed, intends to support the RVRS currency.&#x20;
