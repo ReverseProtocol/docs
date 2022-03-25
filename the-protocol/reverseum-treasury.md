@@ -1,19 +1,16 @@
 ---
-description: The protocol's Treasury
+description: The War-Chest of the Protocol
 cover: ../.gitbook/assets/Group 3451 (1).png
 coverY: 0
 ---
 
 # 🏦 Reverseum Treasury
 
-Liquidity and single assets are accumulated in the Reverseum Treasury through community pool auctions and bonding pools for the protocol's benefit and are governed by RVRS holders. Bonding pools are the main source of value for the Reverseum Treasury, as liquidity and single assets are stored in such.&#x20;
+Yield generated from the governance controlled investments is accumulated and used for distributing profit to RVRS stakers; compounding back into investments; and buybacks (depending on market conditions). Each week all RVRS stakers will receive an even proportion of that week's profits, as determined by governance, in the form of UST.\
 
-![](../.gitbook/assets/kest.jpg)
 
-The treasury will never sell any of its RVRS. The Treasury's non RVRS assets are actively managed to maximize its efficiency and benefit the protocol's users through Snapshot Governance. This could for example entail the deployment of bonded UST on Terra's Mirror Protocol with delta-neutral strategies to maximize the Reverseum returns and expand its value, with the goal of, for example, supporting RVRS tokens or rewarding stakers with different assets such as DAI. RVRS holders and stakers can manage the Treasury and deploy a number of proposals such as:
+![](<../.gitbook/assets/Asset 5.png>)
 
-* Use single assets to buy RVRS and distribute via RVRS staking
-* Distribute assets such as DAI or ONE to protocol participants via RVRS staking
-* Buy an asset using another asset in the treasury (e.g., buy RVRS with UST)
-* Change the current strategy of assets to maximize their performance
+This is one of the unique features of RVRS that adds particular value to holding and staking RVRS. Profits are paid out weekly in the form of a stablecoin that can be used to DCA back into the protocol through bonding; buying more RVRS direct from the market; or taken as profit. All without creating any sell pressure for the protocol.\
+
 
