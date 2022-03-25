@@ -10,5 +10,4 @@ description: Core concepts that are important to Reverse Protocol
 
 ## Reverseum Treasury
 
-![](../.gitbook/assets/2.jpg)
-
+![](<../.gitbook/assets/Asset 5 (1).png>)
