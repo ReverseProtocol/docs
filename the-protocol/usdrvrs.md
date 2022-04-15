@@ -1,5 +1,5 @@
 ---
-description: An overview Reverse's Governance token, RVRS
+description: An overview Reverse's utility token, RVRS
 cover: ../.gitbook/assets/Group 3451 (5).png
 coverY: 0
 ---
@@ -17,7 +17,7 @@ RVRS staking in the veRVRS contract will also entitle stakers to veRVRS, which w
 Creating value to reward stakers of the RVRS token is core to the principles on which Reverse Protocol is built.\
 
 
-## **Supply Distribution**
+### **Initial Supply Distribution**
 
 \
 RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-minted and distributed as follows
@@ -29,10 +29,13 @@ RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-m
 * &#x20;5,000,000 RVRS: Allocated to initial bonding pools – initially held in multisig. \
 
 
+### Ongoing Supply&#x20;
+
+Apart from the initial supply, the remaining RVRS are all allocated to the masterchef and will be rewarded to RVRS stakers.&#x20;
+
 6% of all emissions are reserved for the team. 4% is reserved for protocol costs, including marketing, partnerships, incentives, expenses and bounties. These are both managed through the multisig. \
-
-
-The ongoing emissions of RVRS is controlled by governance and is currently set to reduced by 25% every 3 months until 2025.\
+\
+The ongoing emission rate of RVRS is controlled by governance and is currently set to be reduced by 25% every 3 months until 2025.\
 
 
 {% hint style="info" %}

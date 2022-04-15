@@ -1,7 +1,5 @@
 # 🪙 Staking
 
-## <mark style="color:red;">Soon to be deprecated by veRVRS staking</mark>
-
 {% hint style="warning" %}
 The RVRS single staking is soon to be deprecated and will be replaced with the veRVRS staking contract
 {% endhint %}

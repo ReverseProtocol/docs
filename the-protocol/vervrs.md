@@ -6,21 +6,19 @@ Reverse Protocol's [refined staking implementation ](https://medium.com/@reverse
 RVRS is staked in the veRVRS staking contract, which entitles stakers to a share of the UST airdrops, a share of the RVRS emissions and to the accumulation of veRVRS.\
 
 
-## **UST Distributions**
+### **UST Distributions**
 
 RVRS protocol's staking is built upon a heavily refined (3,3) concept where staking entitles RVRS holders to weekly UST airdrops, allowing holders to make profit without ever selling the RVRS token.
 
 The UST is sourced through deploying the Reverseum treasury in various yield bearing strategies controlled by community governance.\
 
 
-**RVRS Emissions**\
-
-
+### **RVRS Emissions**
 
 RVRS stakers receive a share of all RVRS emissions. This rewards continuous supporters of the protocol with an increasing share of the growing treasury. RVRS emissions reduce over time, so this incentivises early adoption for taking on increased risk.\
 
 
-## **veRVRS**
+### **veRVRS**
 
 veRVRS acts as both the governance token for RVRS protocol and also as a [diamond hands style reward ](https://medium.com/@reverseprotocolONE/diamond-hands-through-vervrs-46dad3106d3)for RVRS stakers that boosts a staker's share of UST airdrops and RVRS emissions.
 
