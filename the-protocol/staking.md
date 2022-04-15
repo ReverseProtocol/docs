@@ -1,8 +1,10 @@
 # 🪙 Staking
 
-## <mark style="color:red;">Under Construction!</mark>
+## <mark style="color:red;">Soon to be deprecated by veRVRS staking</mark>
 
-<mark style="color:red;"></mark>
+{% hint style="warning" %}
+The RVRS single staking is soon to be deprecated and will be replaced with the veRVRS staking contract
+{% endhint %}
 
 RVRS single-staking allows users to earn RVRS through auto-compounding yield, displayed as APY.
 
