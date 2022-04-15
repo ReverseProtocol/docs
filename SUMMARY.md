@@ -5,7 +5,7 @@
 
 ## The Protocol
 
-* [♐ $RVRS](the-protocol/usdrvrs.md)
+* [♐ $RVRS Tokenomics](the-protocol/usdrvrs.md)
 * [🪙 Staking](the-protocol/staking.md)
 * [🔓 Bonding Pools](the-protocol/reverseum-bonding-pools.md)
 * [🏦 Reverseum Treasury](the-protocol/reverseum-treasury.md)
