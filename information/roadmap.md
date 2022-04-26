@@ -18,11 +18,11 @@ description: >-
   * [x] <mark style="color:purple;">**Governance Discussion**</mark>
   * [x] <mark style="color:purple;">**Dev feasibility analysis**</mark>
   * [x] <mark style="color:purple;">**Final Governance Vote with time estimates**</mark>
-* [ ] <mark style="color:purple;">**UI improved for clarity**</mark>
+* [x] <mark style="color:purple;">**UI improved for clarity**</mark>
   * [x] <mark style="color:purple;">**Fix scaling/mobile**</mark>
-  * [ ] <mark style="color:purple;">**Update Staking Dashboard**</mark>
-  * [ ] <mark style="color:purple;">**Update Bonding Dashboard**</mark>
-* [ ] <mark style="color:purple;">**Update Project Documentation**</mark>
+  * [x] <mark style="color:purple;">**Update Staking Dashboard**</mark>
+  * [x] <mark style="color:purple;">**Update Bonding Dashboard**</mark>
+* [x] <mark style="color:purple;">**Update Project Documentation**</mark>
 * [ ] <mark style="color:purple;">**Marketing Push**</mark>
   * [x] <mark style="color:purple;">**Twitter Campaign**</mark>
   * [x] <mark style="color:purple;">**Reddit Presence**</mark>
@@ -36,8 +36,8 @@ description: >-
     * [ ] <mark style="color:purple;">**Tokenomics Walkthrough**</mark>
     * [ ] <mark style="color:purple;">**Bonding How-To**</mark>
 * [ ] <mark style="color:purple;">**Community Driven Growth and Expansion**</mark>
-  * [ ] <mark style="color:purple;">**Continue establishing Community driven Governance over the future of the project.**</mark>
-  * [ ] <mark style="color:purple;">**Define Treasury Strategy Balancing Mechanics**</mark>
+  * [x] <mark style="color:purple;">**Continue establishing Community driven Governance over the future of the project.**</mark>
+  * [x] <mark style="color:purple;">**Define Treasury Strategy Balancing Mechanics**</mark>
   * [ ] <mark style="color:purple;">**Define Profit-Taking Reinvestment/Distribution Strategy**</mark>
   * [ ] <mark style="color:purple;">**Refine Protocol Levers based on Market Analysis**</mark>
     * [ ] <mark style="color:purple;">**Create definitions around market triggers**</mark>
