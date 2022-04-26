@@ -34,7 +34,7 @@ All our contracts are inspired by battle-tested and audited contracts used by di
 
 ## How does the treasury earn yield?
 
-The Reverseum Treasury puts most of its liquidity to work, creating more value than a dormant treasury can. The Reverseum Treasury can act as a Decentralized Farming as a Service thanks to this approach. Details on said strategies can be found [**here**](https://docs.google.com/spreadsheets/d/1fNsmVWqtPrtZr7z4i2n1ZgRNAEZdX3coPzMbZNPCZ34/edit#gid=1364928066).
+The Reverseum Treasury puts most of its liquidity to work, creating more value than a dormant treasury can. The Reverseum Treasury can act as a Decentralized Farming as a Service thanks to this approach. Details on said strategies can be found [**here**](https://docs.google.com/spreadsheets/d/1fNsmVWqtPrtZr7z4i2n1ZgRNAEZdX3coPzMbZNPCZ34/edit#gid=563760963).
 
 ## Price chart?
 
