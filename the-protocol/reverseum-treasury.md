@@ -6,7 +6,7 @@ coverY: 0
 
 # 🏦 Reverseum Treasury
 
-Yield generated from the governance controlled investments is accumulated and used for distributing profit to RVRS stakers; compounding back into investments; and buybacks (depending on market conditions). Each week all RVRS stakers will receive an even proportion of that week's profits, as determined by governance, in the form of a stablecoin.\
+Yield generated from the governance controlled investments is accumulated and used for distributing profit to RVRS stakers; compounding back into investments; and buybacks (depending on market conditions). Each week all RVRS stakers will receive an even proportion of that week's profits, as determined by governance, in the form of UST.\
 
 
 ![](<../.gitbook/assets/Asset 5.png>)
