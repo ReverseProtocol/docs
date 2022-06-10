@@ -10,7 +10,7 @@ The Reverse Token (RVRS) is the key to accessing the benefits of Reverse Protoco
 
 Each RVRS token represents a share of the Reverseum Treasury, which is a community governed treasury representing a basket of assets earning yield on DeFi.
 
-Staking RVRS in the single staking contract grants stakers access to the UST treasury yield distributions and to a share of RVRS emissions. However this will transfer to the veRVRS staking contract with the upcoming launch of veRVRS.
+Staking RVRS in the single staking contract grants stakers access to the treasury yield distributions and to a share of RVRS emissions. This will will soon be updated with the veRVRS staking contract after the upcoming launch of veRVRS.
 
 RVRS staking in the veRVRS contract will also entitle stakers to veRVRS, which will act as both the governance token for the protocol and also as a yield boost for staking.
 
