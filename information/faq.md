@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ## Is Reverse an OHM Fork?
 
-Reverse is not an OHM fork, it is inspired by its mechanics but uses a different Bonding strategy (Bonding Pools), does not aspire to be a Reserve Currency and does not rebase. Read more on the differences [<mark style="color:red;">**here**</mark>](../the-protocol/ohm-vs.-reverse.md)**.**
+Reverse is not an OHM fork, it is inspired by its mechanics but uses a different Bonding strategy (Bonding Pools), does not aspire to be a Reserve Currency and does not rebase. Read more on the differences [<mark style="color:red;">**here**</mark>](../the-protocol/ohm-and-reverse-how-do-they-differ.md)**.**
 
 ## <mark style="color:red;">I lost money on a Bonding Pool eventhough the current NET ROI was positive?</mark>
 

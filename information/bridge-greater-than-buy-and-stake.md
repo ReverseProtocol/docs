@@ -22,12 +22,12 @@
 
 ### <mark style="color:orange;">**Bridging using Horizon HarmonyOne**</mark>
 
-1. Visit [**Harmony Horizon Bridge**](https://bridge.harmony.one)****
+1. Visit [**Harmony Horizon Bridge**](https://bridge.harmony.one/)****
 2. Depending on the chain you are bridging from, it is best recommended to use the [**Official Horizon Bridge Document**](https://docs.harmony.one/home/general/horizon-bridge)****
 
 ### <mark style="color:orange;">Sending funds from an exchange</mark>
 
-1. Copy your wallet address(0x..), and copy and paste it on [**Harmony Explorer**](https://explorer.harmony.one) and you will get your Harmony One wallet address starting with "one".
+1. Copy your wallet address(0x..), and copy and paste it on [**Harmony Explorer**](https://explorer.harmony.one/) and you will get your Harmony One wallet address starting with "one".
 2. You can toggle between 'ONE' and '0x' address by using the Menu (3 dashes) on the top right corner of the screen.
 3. Copy this 'ONE' address and save it, it will be your metamask wallet address.
 4. Go to Binance or Kucoin, buy some ONE and withdraw it on your address and remember to select network as Harmony or ONE. On kucoin you can send a minimum of 20 ONE and on Binance you can send a minimum of 60 ONE.
