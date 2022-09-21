@@ -1,6 +1,6 @@
 # 🔀 OHM vs. Reverse
 
-As we've outlined already, Reverse is not an OlympusDAO fork; however, it is inspired and takes cues from OHM, specifically from its protocol-owned liquidity and bonding mechanics.\
+As we've outlined already, Reverse is not an OlympusDAO fork; however, it is inspired by and takes cues from OHM, specifically from its protocol-owned liquidity and bonding mechanics.\
 
 
 The differences\
