@@ -17,6 +17,8 @@ Creating value to reward stakers of the RVRS token is core to the principles on 
 
 ### **Initial Supply Distribution**
 
+<mark style="color:orange;">**Under Construction**</mark>
+
 \
 RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-minted and distributed as follows
 
@@ -28,6 +30,10 @@ RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-m
 
 
 ### Ongoing Supply&#x20;
+
+<mark style="color:orange;">**Under Construction**</mark>
+
+
 
 Apart from the initial supply, the remaining RVRS are all allocated to the masterchef and will be rewarded to RVRS stakers.&#x20;
 
