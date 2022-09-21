@@ -7,7 +7,7 @@
 
 * [♐ $RVRS Tokenomics](the-protocol/usdrvrs.md)
 * [🪙 Staking](the-protocol/staking.md)
-* [💰 veRVRS - Archived Project](the-protocol/vervrs-archived-project.md)
+* [💰 veRVRS - Archived Project](the-protocol/vervrs.md)
 * [🔓 Bonding Pools](the-protocol/reverseum-bonding-pools.md)
 * [🏦 Reverseum Treasury](the-protocol/reverseum-treasury.md)
 * [🙋♀ Governance](the-protocol/governance.md)
@@ -15,10 +15,9 @@
 
 ## Information
 
-* [🤝 Bridge > Buy & Stake](information/bridge-greater-than-buy-and-stake.md)
 * [👉 Core Concepts](information/core-concepts.md)
 * [❓ FAQ](information/faq.md)
 * [🔜 Roadmap](information/roadmap.md)
 * [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)
 * [📃 Code](https://github.com/ReverseProtocol)
-* [🗣 Discord](https://www.discord.gg/reverseprotocol)
+* [🗣 Discord](https://discord.gg/cM23h7ERUQ)

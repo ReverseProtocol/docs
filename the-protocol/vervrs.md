@@ -1,4 +1,4 @@
-# 💰 veRVRS
+# 💰 veRVRS - Archived Project
 
 Reverse Protocol's [refined staking implementation ](https://medium.com/@reverseprotocolONE/reverse-reinvents-rewarding-stakers-a2ef100c4519)encourages RVRS holders to stake their RVRS in exchange for rewards.
 
