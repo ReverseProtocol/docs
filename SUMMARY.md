@@ -7,7 +7,7 @@
 
 * [♐ $RVRS Tokenomics](the-protocol/usdrvrs.md)
 * [🪙 Staking](the-protocol/staking.md)
-* [💰 veRVRS](the-protocol/vervrs.md)
+* [💰 veRVRS - Archived Project](the-protocol/vervrs-archived-project.md)
 * [🔓 Bonding Pools](the-protocol/reverseum-bonding-pools.md)
 * [🏦 Reverseum Treasury](the-protocol/reverseum-treasury.md)
 * [🙋♀ Governance](the-protocol/governance.md)
