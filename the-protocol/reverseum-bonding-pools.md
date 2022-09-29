@@ -11,7 +11,7 @@ Reverse’s bonding pools are designed to do two things:\
 **Regular Bonding**: Grow the Reverse treasury and to reward bonders with the chance to acquire RVRS at a discount to market price.\
 _`Stablecoin in->RVRS token out`_
 
-**RVRS Bonding:** Allow RVRS holders to cash out their RVRS at a price set by Governance.\
+**RVRS Bonding:** Allow RVRS holders to cash out their share of the Treasury by exchanging RVRS for treasury assets at a rate set by Governance.\
 _`RVRS token in->Stablecoin out`_
 
 Using the bonding pools means <mark style="color:red;">permanently forfeiting</mark> assets to exchange with the treasury for the desired asset at the agreed upon rate. This is not reversible!\
