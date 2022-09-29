@@ -10,14 +10,14 @@ The Reverse Token (RVRS) is the key to accessing the benefits of Reverse Protoco
 
 Each RVRS token represents a share of the Reverseum Treasury, which is a community governed treasury representing a basket of assets earning yield on DeFi.
 
-Staking RVRS in the single staking contract grants stakers access to the treasury yield distributions and to a share of RVRS emissions., should there be any.&#x20;
+Since there are no current emissions, there is no need for a staking contract at this time. In the future there may be a contract implemented to manage distribution rewards.
 
-Creating value to reward stakers of the RVRS token is core to the principles on which Reverse Protocol is built.\
+Creating value to reward holders of the RVRS token is core to the principles on which Reverse Protocol is built.\
 
 
 ### **Initial Supply Distribution**
 
-<mark style="color:orange;">**Under Construction**</mark>
+<mark style="color:orange;">This information is deprecated now due to migrating to Arbitrum. Token distribution was 1:1 with the old RVRS token on Harmony at the time our exit snapshot was taken.</mark>
 
 \
 RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-minted and distributed as follows
@@ -31,15 +31,7 @@ RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-m
 
 ### Ongoing Supply&#x20;
 
-<mark style="color:orange;">**Under Construction**</mark>
-
-
-
-Apart from the initial supply, the remaining RVRS are all allocated to the masterchef and will be rewarded to RVRS stakers.&#x20;
-
-6% of all emissions are reserved for the team. 4% is reserved for protocol costs, including marketing, partnerships, incentives, expenses and bounties. These are both managed through the multisig. \
-\
-The ongoing emission rate of RVRS is controlled by governance and is currently set to be reduced by 25% every 3 months until 2025.\
+<mark style="color:orange;">**Currently there are no emissions of RVRS.**</mark>\ <mark style="color:orange;">****</mark>\ <mark style="color:orange;">**In the future there may be emissions used in the process of Bonding user funds to the Treasury in exchage for RVRS at a rate set by community consensus.**</mark>\
 
 
 {% hint style="info" %}

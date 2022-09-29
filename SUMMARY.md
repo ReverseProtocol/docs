@@ -14,7 +14,6 @@
 
 ## Information
 
-* [👉 Core Concepts](information/core-concepts.md)
 * [❓ FAQ](information/faq.md)
 * [🔜 Roadmap](information/roadmap.md)
 * [🎫 Contracts (Mainnet)](information/contracts-mainnet.md)

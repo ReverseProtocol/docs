@@ -4,39 +4,25 @@ description: Frequently Asked Questions
 
 # ❓ FAQ
 
-## Is Reverse an OHM Fork?
+## **Where can I buy RVRS Tokens?**
 
-Reverse is not an OHM fork, it is inspired by its mechanics but uses a different Bonding strategy (Bonding Pools), does not aspire to be a Reserve Currency and does not rebase. Read more on the differences [<mark style="color:red;">**here**</mark>](../the-protocol/ohm-and-reverse-how-do-they-differ.md)**.**
+RVRS is not currently traded on any networks. The only way to obtain RVRS is to bond funds with the Reverseum Treasury during an active bonding event, which will be announced on [Discord ](https://discord.gg/C5YqrQEjdX)and Twitter when they are happening.
 
-## <mark style="color:red;">I lost money on a Bonding Pool eventhough the current NET ROI was positive?</mark>
+## **Can I stake and forget?**
 
-Huge price fluctuations will impact the NET ROI of Bonding Pools. This is not different than how Reserve Currency projects like Wonderland work. More information can be found [<mark style="color:red;">**here**</mark>](../the-protocol/reverseum-bonding-pools.md).
+It's even easier than that right now with RVRS. There is no staking! Simply holding your tokens in your wallet on Arbitrum will qualify you for voting and distribution privileges at this time.
 
-## How does Current NET ROI work?
+## **How secure is Reverse Protocol?**
 
-The current NET ROI is the expected return on investment for the remaining duration of a Bond. Our Bonding Pools incentivize getting in early, so make sure you check our Discord if you want to participate in a new Bonding Pool as we will always announce these beforehand.
+Our protocol is as secure as the Arbitrum Network is, as it houses our governance token. Our investments are spread out across multiple chains, so there are additional risk factors associated with each of these investments.
 
-## Can I stake and forget?
+## **How does the treasury earn yield?**
 
-RVRS Protocol is built on the concept of making it more accessible to farm the deFi space. It does, however, require regular interaction from the investor to maximize one's return. With the new veRVRS model, stablecoin payouts must be manually claimed, and RVRS/veRVRS rewards for staking must be manually claimed. This process is as simplified as possible, allowing for single-click claim/compound directly from our UI.
+The Reverseum Treasury puts most of its liquidity to work, creating more value than a dormant treasury can.
 
-## What is APY?
+## **Why not mirror RVRS investments yourself?**
 
-Annual percentage yield is a normalised representation of an interest rate, based on a compounding period of one year. APY figures allow for a reasonable, single-point comparison of different offerings with varying compounding schedules.
+The RVRS treasury is invested in numerous strategies; many of these strategies require more complex management than the average investor is ready to tackle. We also have efficiencies of scale operating on high-gas networks, which provides significant savings when spread to all the different investors. RVRS is one simple investment on a fast and affordable network, and managing your portfolio is as easy as holding the tokens in your wallet. Participation in Governance on Discord provides investors a voice in how the treasury is managed, as well as opportunities to get involved as a contributor to earn rewards. This builds not only knowledge and skills, but also reputation and exposure to the builder side of the Crypto Narrative.
 
-<mark style="color:red;">****</mark>[<mark style="color:red;">**Example calculator**</mark>](https://calculators.io/apy/)<mark style="color:red;">****</mark>
-
-## How secure is Reverse Protocol?
-
-All our contracts are inspired by battle-tested and audited contracts used by different protocols. We are still working to get additional audits completed for extra security measures.
-
-
-
-## How does the treasury earn yield?
-
-The Reverseum Treasury puts most of its liquidity to work, creating more value than a dormant treasury can. The Reverseum Treasury can act as a Decentralized Farming as a Service thanks to this approach. Details on said strategies can be found [**here**](https://docs.google.com/spreadsheets/d/1fNsmVWqtPrtZr7z4i2n1ZgRNAEZdX3coPzMbZNPCZ34/edit#gid=563760963).
-
-## Price chart?
-
-[https://dexscreener.com/harmony/0xCDe0A00302CF22B3Ac367201FBD114cEFA1729b4](https://dexscreener.com/harmony/0xCDe0A00302CF22B3Ac367201FBD114cEFA1729b4)
+##
 
