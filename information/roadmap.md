@@ -23,9 +23,9 @@ description: >-
   * [x] <mark style="color:purple;">**Update Staking Dashboard**</mark>
   * [x] <mark style="color:purple;">**Update Bonding Dashboard**</mark>
 * [x] <mark style="color:purple;">**Update Project Documentation**</mark>
-* [ ] <mark style="color:purple;">**Move to Arbitrum**</mark>
-  * [ ] <mark style="color:purple;">**Launch new RVRS Token**</mark>
-  * [ ] <mark style="color:purple;">**Claimdrop for Investors**</mark>
-  * [ ] <mark style="color:purple;">**Reverse Bond open for exiters**</mark>
-* [ ] <mark style="color:purple;">**Transition to token gated community**</mark>
+* [x] <mark style="color:purple;">**Move to Arbitrum**</mark>
+  * [x] <mark style="color:purple;">**Launch new RVRS Token**</mark>
+  * [x] <mark style="color:purple;">**Claimdrop for Investors**</mark>
+  * [x] <mark style="color:purple;">**Reverse Bond open for exiters**</mark>
+* [x] <mark style="color:purple;">**Transition to token gated community**</mark>
 * [ ] <mark style="color:purple;">**Build out further Roadmap in Community Discussions**</mark>
