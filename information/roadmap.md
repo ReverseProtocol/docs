@@ -29,3 +29,7 @@ description: >-
   * [x] <mark style="color:purple;">**Reverse Bond open for exiters**</mark>
 * [x] <mark style="color:purple;">**Transition to token gated community**</mark>
 * [ ] <mark style="color:purple;">**Build out further Roadmap in Community Discussions**</mark>
+  * [ ] <mark style="color:purple;">**Refine Treasury Strategies**</mark>
+  * [ ] <mark style="color:purple;">**Coordinate with other projects with aligned interests**</mark>
+  * [ ] <mark style="color:purple;">**Incubate internal talent by incentivizing contributors from the community to build tools for the Protocol, as well as the Crypto Community as a whole**</mark>
+  * [ ] <mark style="color:purple;">**Build out a mechanism for paying RVRS holders a revenue share once the market turns around**</mark>
