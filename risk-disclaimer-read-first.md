@@ -8,6 +8,6 @@ The Reverse Protocol does not entitle users to any profit or revenue of any kind
 
 
 
-**Never risk more than you can lose - you alone are responsible for your choices.**
+**Never invest more than you can lose - you alone are responsible for your investment.**
 
 ****

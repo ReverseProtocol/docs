@@ -1,10 +1,3 @@
----
-description: >-
-  This project was archived due to transitioning to a zero-inflation model. It
-  is left up for historical purposes, in case someone wishes to revitalize this
-  project, as the contracts are audited.
----
-
 # 💰 veRVRS - Archived Project
 
 Reverse Protocol's [refined staking implementation ](https://medium.com/@reverseprotocolONE/reverse-reinvents-rewarding-stakers-a2ef100c4519)encourages RVRS holders to stake their RVRS in exchange for rewards.

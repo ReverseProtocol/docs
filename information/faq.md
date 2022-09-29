@@ -22,7 +22,9 @@ The Reverseum Treasury puts most of its liquidity to work, creating more value t
 
 ## **Why not mirror RVRS investments yourself?**
 
-The RVRS treasury is invested in numerous strategies; many of these strategies require more complex management than the average investor is ready to tackle. We also have efficiencies of scale operating on high-gas networks, which provides significant savings when spread to all the different investors. RVRS is one simple investment on a fast and affordable network, and managing your portfolio is as easy as holding the tokens in your wallet. Participation in Governance on Discord provides investors a voice in how the treasury is managed, as well as opportunities to get involved as a contributor to earn rewards. This builds not only knowledge and skills, but also reputation and exposure to the builder side of the Crypto Narrative.
+The RVRS treasury is invested in numerous strategies; many of these strategies require more complex management than the average investor is ready to tackle. We also have efficiencies of scale operating on high-gas networks, which provides significant savings when spread to all the different investors.&#x20;
+
+RVRS is one simple investment on a fast and affordable network, and managing your portfolio is as easy as holding the tokens in your wallet. Participation in Governance on Discord provides investors a voice in how the treasury is managed, as well as opportunities to get involved as a contributor to earn rewards. This builds not only knowledge and skills, but also reputation and exposure to the builder side of the Crypto Narrative.
 
 ##
 
