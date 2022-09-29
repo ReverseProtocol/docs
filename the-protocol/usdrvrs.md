@@ -17,7 +17,7 @@ Creating value to reward holders of the RVRS token is core to the principles on 
 
 ### **Initial Supply Distribution**
 
-<mark style="color:orange;">This information is deprecated now due to migrating to Arbitrum. Token distribution is 1:1 with the old RVRS token on Harmony.</mark>
+<mark style="color:orange;">This information is deprecated now due to migrating to Arbitrum. Token distribution was 1:1 with the old RVRS token on Harmony at the time our exit snapshot was taken.</mark>
 
 \
 RVRS has a hard cap of 500,000,000 tokens, of which 7,025,000 RVRS will be pre-minted and distributed as follows
